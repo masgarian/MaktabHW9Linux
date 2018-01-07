@@ -1,0 +1,32 @@
+total 36
+-rwxr--r-- 1 pi pi  352 Jan  7 08:33 addexec.sh
+-rw-r--r-- 1 pi pi    0 Jan  7 08:59 ff
+-rwxr--r-- 1 pi pi    0 Jan  7 08:29 f.txt
+-rwxr-xr-x 1 pi pi  438 Jan  7 07:59 howmany.sh
+drwxr-xr-x 3 pi pi 4096 Jan  7 08:52 HW9
+-rw-r--r-- 1 pi pi  590 Jan  7 08:35 HW9-20180107T083513Z-001.zip
+-rw-r--r-- 1 pi pi  360 Jan  7 08:59 hw94Res.txt
+-rwxr-xr-x 1 pi pi  359 Jan  7 07:35 hw94.sh
+-rw-r--r-- 1 pi pi    0 Jan  7 09:00 hw95Res.txt
+drwxr-xr-x 2 pi pi 4096 Jan  7 08:56 k
+-rw-r--r-- 1 pi pi   27 Jan  7 07:36 res.txt
+-rw-r--r-- 1 pi pi    0 Jan  7 06:40 wc
+Usage: ./addexec.sh filename
+k  is not  a regular file
+k1 does not exist.
+Usage: ./addexec.sh filename
+Usage: ./addexec.sh filename
+total 40
+-rwxr--r-- 1 pi pi  352 Jan  7 08:33 addexec.sh
+-rwxr--r-- 1 pi pi    0 Jan  7 08:59 ff
+-rwxr--r-- 1 pi pi    0 Jan  7 09:01 fss
+-rwxr--r-- 1 pi pi    0 Jan  7 08:29 f.txt
+-rwxr-xr-x 1 pi pi  438 Jan  7 07:59 howmany.sh
+drwxr-xr-x 3 pi pi 4096 Jan  7 08:52 HW9
+-rw-r--r-- 1 pi pi  590 Jan  7 08:35 HW9-20180107T083513Z-001.zip
+-rw-r--r-- 1 pi pi  360 Jan  7 08:59 hw94Res.txt
+-rwxr-xr-x 1 pi pi  359 Jan  7 07:35 hw94.sh
+-rwxr--r-- 1 pi pi  694 Jan  7 09:03 hw95Res.txt
+drwxr-xr-x 2 pi pi 4096 Jan  7 08:56 k
+-rw-r--r-- 1 pi pi   27 Jan  7 07:36 res.txt
+-rw-r--r-- 1 pi pi    0 Jan  7 06:40 wc

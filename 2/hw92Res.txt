@@ -1,0 +1,6 @@
+Mask:255.0.0.0
+Mask:255.255.255.0
+inet addr:127.0.0.1
+inet addr:192.168.1.104
+HWaddr b8:27:eb:2e:a2:6b
+HWaddr b8:27:eb:7b:f7:3e

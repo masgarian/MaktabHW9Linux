@@ -1,0 +1,8 @@
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ls -l > hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh k >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh k1 >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh kk k2 >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh kk f >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ./addexec.sh ff >> hw95Res.txt
+pi@raspberrypi:~/Desktop/Mohsen/HW9 $ ls -l >> hw95Res.txt
